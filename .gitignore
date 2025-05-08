@@ -172,3 +172,17 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+README.md
+
+*.csv
+*.tsv
+*.json
+*.xlsx
+*.xls
+/data/*
+*/__pycache__/*
+acces2Data.md
+*.docs
+*.docx
+README.md

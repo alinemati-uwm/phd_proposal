@@ -1,0 +1,53 @@
+# Column Names
+
+- atype
+- ayear
+- cir007
+- daystoevent
+- dig004
+- disp_x
+- dispub04
+- dispuniform
+- dqtr
+- drg
+- drg_nopoa
+- drgver
+- e_poa2
+- end010
+- end011
+- fac025
+- female
+- hcup_ed
+- hispanic_x
+- hospitalunit
+- hospst
+- i10_ndx
+- i10_npr
+- i10_proctype
+- maritalstatus_x
+- maritalstatusub04
+- medincstq
+- mrn_r
+- neo051
+- neo070
+- p7edsrc_x
+- pay1
+- pay1_x
+- pay2
+- pay2_x
+- pay3_x
+- payer1_x
+- payer2_x
+- pl_cbsa
+- pl_nchs
+- pl_rucc
+- pl_uic
+- pl_ur_cat4
+- pointoforigin_x
+- pointoforiginub04
+- primlang
+- pstate
+- pstco
+- pstco2
+
+
